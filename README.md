@@ -1,15 +1,21 @@
 ## 👋 Hi there! I'm Digbijaya!
 
-I am a Full-Stack Developer from Kathmandu, Nepal.
-- 🏢 I'm currently working at __[@Itonics Nepal][Company]__
+I am a Full-Stack Developer from Lalitpur, Nepal.
+- 🏢 I'm currently working at __[Itonics Nepal][Company]__
 - 💻 I code with: 
-![](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript&logoColor=F7DF1E)
+![](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript&logoColor=3178C6)
 ![](https://img.shields.io/badge/-Node-black?style=flat-square&logo=Node.js&logoColor=339933)
 ![](https://img.shields.io/badge/-Angular-black?style=flat-square&logo=angular&logoColor=DD0031)
-![](https://img.shields.io/badge/-React-black?style=flat-square&logo=react&logoColor=61DAFB)
+![](https://img.shields.io/badge/-AWS_Lambda-black?style=flat-square&logo=awslambda&logoColor=FF9900)
+![](https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=postgresql&logoColor=9169E1)
+![](https://img.shields.io/badge/-Jest-black?style=flat-square&logo=jest&logoColor=C21325)
+![](https://img.shields.io/badge/-Jasmine-black?style=flat-square&logo=jasmine&logoColor=8A4182)
 ![](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker&logoColor=2496ED)
-![](https://img.shields.io/badge/-Netlify-black?style=flat-square&logo=netlify&logoColor=00C7B7)
-![](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git&logoColor=45b8d8)
+<!---
+![](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript&logoColor=F7DF1E)
+![](https://img.shields.io/badge/-React-black?style=flat-square&logo=react&logoColor=61DAFB)
+-->
+
 <!--- 🌱 I’m currently learning:
 ![](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js&logoColor=339933)
 ![](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb&logoColor=47A248)-->
