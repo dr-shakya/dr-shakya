@@ -22,7 +22,7 @@ I am a Full-Stack Developer from Lalitpur, Nepal.
 - 📫 Feel free to connect with me here:
 [![Website: shakyadigbijaya.com.np][Badge: Website]][Website]
 [![Linkedin: shakyadigbijaya][Badge: Linkedin]][Linkedin]
-[![Instagram: shakyadigbijaya][Badge: Instagram]][Instagram]
+<!-- [![Instagram: shakyadigbijaya][Badge: Instagram]][Instagram] -->
 
 <!-- Badges -->
 [Badge: Website]: https://img.shields.io/badge/-shakyadigbijaya.com.np-C71F37?style=flat-square
