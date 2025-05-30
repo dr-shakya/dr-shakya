@@ -18,8 +18,8 @@
 
 I am a Full Stack Developer from Nepal.
 
-- 💼 I’m working as a **Senior Software Engineer - Working Student** at [ITONICS GmbH][Company].
-- 🎓 Currently studying **M.Sc. Data and Knowledge Engineering** at [Otto von Guericke University Magdeburg (OVGU)](https://www.ovgu.de/).
+- 💼 I’m working as a **Senior Software Engineer** at [ITONICS GmbH][Company].
+- 🎓 Currently studying **M.Sc. Data and Knowledge Engineering** at [Otto von Guericke University (OVGU)](https://www.ovgu.de/).
 - 📫 How to reach me: [![Website: shakyadigbijaya.com.np][Badge: Website]][Website] [![Linkedin: shakyadigbijaya][Badge: Linkedin]][Linkedin]
 
 ---
