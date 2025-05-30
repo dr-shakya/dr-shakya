@@ -57,7 +57,7 @@ I am a Full Stack Developer from Nepal.
 #### 🌱 Currently Diving Into
 
 <p>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-plain-wordmark.svg" title="AWS" alt="AWS" width="50" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-plain-wordmark.svg" title="PyTorch" alt="PyTorch" width="50" height="50"/>
 &nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" title="Scikit-learn"  alt="Scikit-learn" width="50" height="50"/>
 &nbsp;
