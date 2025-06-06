@@ -29,8 +29,8 @@
 I am a Full Stack Developer from Nepal.
 
 - 💼 I’m working as a **Senior Software Engineer** at [ITONICS GmbH][Company].
-- 🎓 Currently studying **M.Sc. Data and Knowledge Engineering** at [Otto von Guericke University (OVGU)](https://www.ovgu.de/).
-- 📫 How to reach me: [![Website: shakyadigbijaya.com.np][Badge: Website]][Website] [![Linkedin: shakyadigbijaya][Badge: Linkedin]][Linkedin]
+- 🎓 Currently studying **M.Sc. Data and Knowledge Engineering** at [Otto von Guericke University (OVGU)][OVGU].
+- 📬 How to reach me: [![Website][Badge: Website]][Website] [![Linkedin][Badge: Linkedin]][Linkedin]
 
 <h1></h1> <!-- Adds a vertical line -->
 
@@ -87,6 +87,7 @@ I am a Full Stack Developer from Nepal.
 [Website]: https://www.shakyadigbijaya.com.np/
 [Linkedin]: https://linkedin.com/in/shakyadigbijaya/
 [Company]: https://www.itonics-innovation.com/
+[OVGU]: https://www.ovgu.de/
 
 <!--
 **dr-shakya/dr-shakya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
