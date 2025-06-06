@@ -24,7 +24,7 @@
 
 <!-- <p align="center"><img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/></p> -->
 
-### About Me
+### 🔍︎ About Me
 
 I am a Full Stack Developer from Nepal.
 
@@ -34,9 +34,9 @@ I am a Full Stack Developer from Nepal.
 
 <h1></h1> <!-- Adds a vertical line -->
 
-### 🛠 Languages and Tools
+### </> Languages and Tools
 
-#### 🚀 Proficient In
+#### ✩ Proficient In
 
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="50" height="50"/>
@@ -56,7 +56,7 @@ I am a Full Stack Developer from Nepal.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" title="Docker"  alt="Docker" width="50" height="50"/>
 </p>
 
-#### 🌱 Currently Diving Into
+#### 🖋 Currently Diving Into
 
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-plain-wordmark.svg" title="PyTorch" alt="PyTorch" width="50" height="50"/>
