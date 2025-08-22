@@ -4,21 +4,23 @@
 
 <h2 align="center">
   <p>
-    <a href="https://www.shakyadigbijaya.com.np/" target="_blank">
-      <img src="https://avatars.githubusercontent.com/u/60397446?v=4" width="100" alt="Website" title="Portfolio" />
-    </a>
+    <img src="https://avatars.githubusercontent.com/u/60397446?v=4" width="140" alt="Personal" title="Portfolio" style="border-radius: 50%; border: 3px solid #cba6f7;" />
   </p>
 
   <p>
-    <a href="https://www.linkedin.com/in/shakyadigbijaya">
-      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" title="LinkedIn">
+    <a href="https://www.shakyadigbijaya.com.np/" target="_blank">
+      <img src="https://img.shields.io/badge/-Website-cba6f7?style=for-the-badge" alt="Website Badge" title="Website">
+    </a>
+    <a href="https://www.linkedin.com/in/shakyadigbijaya" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge" alt="LinkedIn Badge" title="LinkedIn">
     </a>
   </p>
+
   <!-- <p>
   <a href="https://www.buymeacoffee.com/zed0" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
   </p> -->
   <p>
-    <img src="https://komarev.com/ghpvc/?username=dr-shakya&style=for-the-badge&color=brightgreen" alt="Profile views">
+    <img src="https://komarev.com/ghpvc/?username=dr-shakya&style=for-the-badge&color=brightgreen" alt="Profile Views" title="Profile Views">
   </p>
 </h2>
 
@@ -48,7 +50,7 @@ I am a Full Stack Developer from Nepal.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original-wordmark.svg" title="FastAPI" alt="FastAPI" width="50" height="50"/>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" title="PostgreSQL" alt="PostgreSQL" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dynamodb/dynamodb-original.svg" title="DynamoDB" alt="DynamoDB " width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dynamodb/dynamodb-original.svg" title="DynamoDB" alt="DynamoDB" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/elasticsearch/elasticsearch-plain-wordmark.svg"  title="Elasticsearch" alt="Elasticsearch" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original-wordmark.svg" title="Redis" alt="Redis" width="50" height="50"/>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -79,9 +81,13 @@ I am a Full Stack Developer from Nepal.
 
 [![GitHub Streak](https://nirzak-streak-stats.vercel.app?user=dr-shakya&theme=dark&mode=weekly)](https://git.io/streak-stats) -->
 
+<!-- <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=dr-shakya&theme=highcontrast&show_icons=true&hide_border=true&count_private=true" alt="dr-shakya's Stats" />
+</p> -->
+
 <!-- Badges -->
-[Badge: Website]: https://img.shields.io/badge/-Website-C71F37?style=flat-square
-[Badge: Linkedin]: https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white
+[Badge: Website]: https://img.shields.io/badge/-Website-cba6f7?style=flat-square
+[Badge: Linkedin]: https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square
 
 <!-- Social Links -->
 [Website]: https://www.shakyadigbijaya.com.np/
