@@ -1,10 +1,10 @@
 <h1 align="center">
-  Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40" alt="Waving Hand">
+  Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35" alt="Waving Hand">
 </h1>
 
 <h2 align="center">
   <p>
-    <img src="https://avatars.githubusercontent.com/u/60397446?v=4" width="140" alt="Personal" title="Portfolio" style="border-radius: 50%; border: 3px solid #cba6f7;" />
+    <img src="https://avatars.githubusercontent.com/u/60397446?v=4" heigh= "100" width="100" alt="Personal" title="Portfolio"/>
   </p>
 
   <p>
